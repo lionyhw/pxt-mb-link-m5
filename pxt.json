@@ -1,0 +1,14 @@
+{
+    "name": "mb-Link-M5",
+    "version": "0.0.1",
+    "description": "micro:bit linkage M5core",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+		"main.ts",
+        "README.md"
+    ],
+    "public": true
+}
